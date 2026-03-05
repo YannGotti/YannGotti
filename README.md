@@ -29,20 +29,5 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis)
 
----
-
-## 📈 Статистика (по желанию)
-![stats](https://github-readme-stats.vercel.app/api?username=YannGotti&show_icons=true&hide_title=true&rank_icon=github)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannGotti&layout=compact)
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=YannGotti)
-
----
-
-## 📬 Контакты
-- Telegram: (вставь ссылку)
-- Email: (по желанию)
-- Discord: (по желанию)
-
 <!-- FOOTER -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
